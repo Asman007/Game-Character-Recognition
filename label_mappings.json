@@ -1,0 +1,40 @@
+{
+  "label_to_idx": {
+    "Bug": 0,
+    "Dark": 1,
+    "Dragon": 2,
+    "Electric": 3,
+    "Fairy": 4,
+    "Fighting": 5,
+    "Fire": 6,
+    "Ghost": 7,
+    "Grass": 8,
+    "Ground": 9,
+    "Ice": 10,
+    "Normal": 11,
+    "Poison": 12,
+    "Psychic": 13,
+    "Rock": 14,
+    "Steel": 15,
+    "Water": 16
+  },
+  "idx_to_label": {
+    "0": "Bug",
+    "1": "Dark",
+    "2": "Dragon",
+    "3": "Electric",
+    "4": "Fairy",
+    "5": "Fighting",
+    "6": "Fire",
+    "7": "Ghost",
+    "8": "Grass",
+    "9": "Ground",
+    "10": "Ice",
+    "11": "Normal",
+    "12": "Poison",
+    "13": "Psychic",
+    "14": "Rock",
+    "15": "Steel",
+    "16": "Water"
+  }
+}
